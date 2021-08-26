@@ -1,0 +1,5 @@
+﻿  source.c
+C:\Users\manso\Desktop\btm\imageanalysing\imageanalysing\mainStructures.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\manso\Desktop\btm\imageanalysing\imageanalysing\source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\manso\Desktop\btm\imageanalysing\imageanalysing\functionsDifinitionHeader.h(34,68): warning C4244: 'return': conversion from 'double' to 'unsigned char', possible loss of data
+  imageanalysing.vcxproj -> C:\Users\manso\Desktop\btm\imageanalysing\Debug\imageanalysing.exe
